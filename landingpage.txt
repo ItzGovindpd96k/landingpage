@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link
+    href="https://cdn.jsdelivr.net/npm/remixicon@4.1.0/fonts/remixicon.css"
+    rel="stylesheet"/>
+    <title>Landing Page</title>
+</head>
+<body>
+    <div id="main">
+       <div class="nav">
+         <div class="nav-1">
+            <img src="https://th.bing.com/th/id/OIP.IGAtQ8yZOBHlpr0Yhq9PMwHaC6?w=336&h=138&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="">
+            <h4>Home</h4>
+            <h4>Men</h4>
+            <h4>Women</h4>
+            <h4>Collection</h4>
+            <h4>Contact</h4>
+        </div>
+            <div class="nav-2">
+                <i class="ri-search-line"></i>
+                <i class="ri-shopping-cart-line"></i>
+                <i class="ri-menu-2-line"></i>
+    
+    </div>
+       </div>
+       <div class="box">
+        <div class="left">
+            <h5>
+                Explore the limited Edition
+            </h5>
+            <h1> Nike Limited Edition</h1>
+            <p>Who doesn’t know Nike? It is only one of the biggest and most famous shoe companies in the world.
+                The company is known for its extensive lineup of sports and athletic wear, including its long-running Air Jordan, Air Force 1, and other “Air” models.
+            </p>
+            <button>Shop now</button>
+        </div>
+        <div class="right">
+            <div class="elem">
+                <img src="https://i.pinimg.com/originals/19/a9/19/19a9192e41f0df71ff94f52e95d0211c.jpg" alt="">
+                <h4>LeBron Soldier 12(Team)</h4>
+                <h5>Men's Basketball Shoes</h5>
+            </div>
+
+            <div class="elem">
+                <img src="https://www.rebelsport.com.au/dw/image/v2/BBRV_PRD/on/demandware.static/-/Sites-srg-internal-master-catalog/default/dwc0e15fc4/images/54635601/Rebel_54635601_blackwhite_hi-res.jpg?sw=1000&sh=1000&sm=fit" alt="">
+                <h4>Nike WindRunner</h4>
+                <h5>Men's Sportware Jacket</h5>
+            </div>
+
+            <div class="elem">
+                <img src="https://th.bing.com/th/id/OIP.Veqb6aEkikX-VdGV6TcH5wHaHa?rs=1&pid=ImgDetMain" alt="">
+                <h4>Air zoom vapour pro</h4>
+                <h5>Nike Light Smoke Grey</h5>
+            </div>
+
+            <div class="elem">
+                <img src="https://th.bing.com/th/id/OIP.pqfAOAwTTFSDZOB7c_EcCgHaHa?rs=1&pid=ImgDetMain" alt="">
+                <h4>Nike Men's Air max 90</h4>
+                <h5>Sandals & Flip-flops</h5>
+            </div>
+
+            <div class="elem">
+                <img src="https://i5.walmartimages.com/asr/8c071017-a501-4a02-8764-ba16e1af5f74_1.e2419c93cf5e701c8f91415d8e633af7.jpeg" alt="">
+                <h4>ixs team jacket</h4>
+                <h5>women's Jacket</h5>
+            </div>
+
+            <div class="elem">
+                <img src="https://th.bing.com/th/id/OIP.fiGzSnaMb_Lz7KLBx7Rj8QHaHa?rs=1&pid=ImgDetMain" alt="">
+                <h4>Nike Air Jordan</h4>
+                <h5>Obslider Retro high</h5>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
